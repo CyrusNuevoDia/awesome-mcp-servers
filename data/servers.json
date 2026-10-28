@@ -3879,6 +3879,23 @@
     }
   },
   {
+    "name": "Paper Plane Post",
+    "url": "https://paperplanepost.com/for/agents",
+    "description": "Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Paper Plane Post, Inc.",
+    "tags": [
+      "postcards",
+      "photos",
+      "mail"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.paperplanepost.com/v1/mcp"
+    }
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
