@@ -539,7 +539,7 @@ Integrate chat, email, calendars, and team collaboration tools.
   `email` `ai-agents` `outreach` `approval`
 - **[Pallyy](https://pallyy.com/docs/api/mcp)** `Official` `TypeScript` — Schedules social media posts from an AI agent: lists social sets, creates and updates draft or scheduled posts, imports media and pins calendar notes across ten networks.  
   `social-media` `scheduling` `marketing` `remote`
-- **[Paper Plane Post](https://paperplanepost.com/for/agents)** `Official` `TypeScript` — Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website.  
+- **[Paper Plane Post](https://paperplanepost.com/for/agents)** `Official` `TypeScript` — Create and send an AI-illustrated postcard anywhere in the world  
   `postcards` `photos` `mail`
 - **[Pinto Notes](https://github.com/pinto-notes/pinto-notes)** `Official` `TypeScript` — Hosted server for Pinto Notes, an open-source notes app for Mac, that lets an AI search, read and edit your notes, checklists and tables after you approve it over OAuth.  
   `notes` `apple-notes` `markdown` `oauth`

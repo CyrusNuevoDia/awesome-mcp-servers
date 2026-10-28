@@ -2522,7 +2522,7 @@ Schedules social media posts from an AI agent: lists social sets, creates and up
 
 ### Paper Plane Post
 
-Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website.
+Create and send an AI-illustrated postcard anywhere in the world
 
 - URL: https://paperplanepost.com/for/agents
 - Language: TypeScript

@@ -2106,7 +2106,7 @@
   {
     "name": "Paper Plane Post",
     "url": "https://paperplanepost.com/for/agents",
-    "description": "Create an unpaid photo postcard draft, then review and pay for printing and mailing on the website.",
+    "description": "Create and send an AI-illustrated postcard anywhere in the world",
     "category": "communication-and-productivity",
     "language": "TypeScript",
     "provider": "Paper Plane Post, Inc.",
